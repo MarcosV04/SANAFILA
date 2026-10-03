@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "nome": "João Silva",
+    "idade": 65,
+    "ubs": "Lar Paraná",
+    "especialidade": "Cardiologia",
+    "grau_manchester": "Amarelo",
+    "score_prioridade": 85,
+    "status_vaga": "confirmado"
+  },
+  {
+    "id": "2",
+    "nome": "Maria Souza",
+    "idade": 42,
+    "ubs": "Centro",
+    "especialidade": "Ortopedia",
+    "grau_manchester": "Verde",
+    "score_prioridade": 40,
+    "status_vaga": "pendente"
+  }
+]
